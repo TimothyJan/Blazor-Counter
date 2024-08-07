@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-Counter\\BlazorCounter\\BlazorCounter\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorCounter.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorCounter.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-Counter\\BlazorCounter\\BlazorCounter\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-Counter\\BlazorCounter\\BlazorCounter\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-Counter\\BlazorCounter\\BlazorCounter\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-Counter\\BlazorCounter\\BlazorCounter\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorCounter.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorCounter.props",
+      "PackagePath": "build\\BlazorCounter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorCounter.props",
+      "PackagePath": "buildMultiTargeting\\BlazorCounter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorCounter.props",
+      "PackagePath": "buildTransitive\\BlazorCounter.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
