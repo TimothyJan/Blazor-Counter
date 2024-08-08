@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-Counter\\BlazorCounter\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65946661-E226-47CD-BBE8-C3E0AAD348E6}|BlazorCounter\\BlazorCounter.csproj|c:\\users\\janti\\onedrive\\documents\\github\\blazor-counter\\blazorcounter\\blazorcounter\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65946661-E226-47CD-BBE8-C3E0AAD348E6}|BlazorCounter\\BlazorCounter.csproj|solutionrelative:blazorcounter\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65946661-E226-47CD-BBE8-C3E0AAD348E6}|BlazorCounter\\BlazorCounter.csproj|c:\\users\\janti\\onedrive\\documents\\github\\blazor-counter\\blazorcounter\\blazorcounter\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65946661-E226-47CD-BBE8-C3E0AAD348E6}|BlazorCounter\\BlazorCounter.csproj|solutionrelative:blazorcounter\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-Counter\\BlazorCounter\\BlazorCounter\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorCounter\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-Counter\\BlazorCounter\\BlazorCounter\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorCounter\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T23:59:47.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-Counter\\BlazorCounter\\BlazorCounter\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorCounter\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-Counter\\BlazorCounter\\BlazorCounter\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorCounter\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T23:58:48.444Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
